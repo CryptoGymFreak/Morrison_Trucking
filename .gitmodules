@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = C:/Users/gumin/OneDrive/Desktop/Morrison_Trucking/client
+[submodule "server"]
+	path = server
+	url = C:/Users/gumin/OneDrive/Desktop/Morrison_Trucking/server
